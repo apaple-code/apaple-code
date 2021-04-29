@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apaple-code
+- 👋 Hi, I’m @apaple-code or just Adlee
 - 👀 I’m interested in a lot of things, mainly what has been on my mind are video games and learning to code!
 - 🌱 I’m currently learning html and javascript.
 - 💞️ I’m looking to collaborate on anything! (probably not for a while since I don't have much knowledge yet)
